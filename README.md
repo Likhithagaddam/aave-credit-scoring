@@ -1,4 +1,5 @@
-#Aave V2 Credit Scoring Project
+Aave V2 Credit Scoring Project
+
 #1. Overview
 This project calculates a credit score for each wallet based on how it interacted with the Aave V2 DeFi protocol. The scores range from 0 (risky) to 1000 (trustworthy). The data includes actions like deposit, borrow, repay, and liquidation.
 
