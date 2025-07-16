@@ -23,3 +23,8 @@ Wallets were grouped into score ranges of 100 points each (0–100, 100–200, e
 6. Use Case
 
 This credit score can be used to filter out unreliable wallets in DeFi systems. It can help approve or reject users for borrowing, rewards, or special access based on score.
+
+GRAPH:
+
+<img width="640" height="519" alt="image" src="https://github.com/user-attachments/assets/c197b480-0458-4ccc-a181-08e2994a186a" />
+
